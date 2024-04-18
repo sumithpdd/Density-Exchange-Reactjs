@@ -59,7 +59,7 @@ const AnimationOne = () => {
           <Image src="/Images/animation5.png" alt="animation5" />
         </Box>
         <Text fontWeight={"bold"} mt={"40%"}>
-          Ahead app
+          Nimbo Health App
         </Text>
         <Box overflow={"hidden"} position="relative">
           <VisibilitySensor onChange={(isVisible) => setIsVisible(isVisible)}>
